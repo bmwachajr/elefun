@@ -1,0 +1,44 @@
+html,body {
+    height:100%;
+}
+
+.mdl-layout__header {
+    background-color: rgba(63, 81, 181, 0);
+}
+
+.mdl-layout__header-row {
+    padding: 0 50%;
+}
+
+.mdl-layout-title {
+    color: black;
+}
+
+.elefun-services {
+    height: 100%;
+}
+
+.elefun-services-list {
+    height: 100%;
+}
+
+.elefun-services-list .mdl-cell--4-col {
+    width: calc(33.3333333333%);
+}
+
+.elefun-services-list .mdl-cell {
+    margin: 0;
+}
+
+.elefun-services .mdl-grid{
+    padding:0;
+}
+
+.elefun-service {
+    border: 1px solid black;
+}
+
+.elefun-service__title {
+    margin: 50% auto;
+    text-align: center;
+}
